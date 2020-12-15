@@ -1,0 +1,5 @@
+finding maximum
+
+boxes = [1,2,3]
+item_per_box = [3,2,1]
+truck_size = 3
